@@ -1,0 +1,12 @@
+[25-Mar-2023 13:40:33 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 13:40:33 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 13:43:14 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 13:43:14 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 13:43:34 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 13:43:34 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 16:13:15 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 16:13:15 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 16:13:35 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 16:13:35 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 16:13:41 UTC] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
+[25-Mar-2023 16:13:41 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/n3fm8xborj4u/public_html/vivaturquia.com/es/includes/header.php on line 1
